@@ -10,7 +10,7 @@ A simple Pong game built with Pygame, featuring smooth animations, an AI opponen
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/miryarik/pong
    cd pong-game
    ```  
 2. Install dependencies:  
